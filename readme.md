@@ -3,6 +3,7 @@
 # Prerequisite
 
 * Nodejs
+* Jest
 * Your heart
 
 # How to run
