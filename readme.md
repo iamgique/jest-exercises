@@ -1,4 +1,4 @@
-# Exercises
+# Jest Exercises
 
 # Prerequisite
 
